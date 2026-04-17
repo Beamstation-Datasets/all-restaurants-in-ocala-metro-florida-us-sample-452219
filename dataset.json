@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Full metro-level restaurant coverage for Ocala (Metro), Florida, spanning Ocala. Spans multiple municipalities within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Ocala (Metro), Florida, US",
-  "export_job_id": "7b9e13dd-1d8c-414f-9f6f-a1a07d77927b",
+  "export_job_id": "68d8d8ca-401c-41c3-a38a-8d48b5a466bf",
   "github_org": "Beamstation-Datasets",
   "id_short": 452219,
   "location_name": "Ocala, FL",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-ocala-metro-florida-us-sample-452219",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/452219/beamstation_452219_restaurants-us-ocalafl_SAMPLE_DIST.csv",
   "sample_pct": 9.96,
-  "sample_records": 25,
-  "sample_sha256": "21490175ef40be81be7a9ff629d20c09242560f55d3407debc65f5faf0d74b99",
-  "sample_size_bytes": 115090,
-  "total_records": 251,
-  "updated_at": "2026-03-31T16:32:45.488839+00:00"
+  "sample_records": 28,
+  "sample_sha256": "35df063ab3344c4115836332a85b0fc609c4da0bace348ddfb8b66d5bf83a8b9",
+  "sample_size_bytes": 116725,
+  "total_records": 281,
+  "updated_at": "2026-04-14T17:23:45.654277+00:00"
 }
