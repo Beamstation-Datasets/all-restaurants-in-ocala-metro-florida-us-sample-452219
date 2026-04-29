@@ -1,12 +1,12 @@
 {
-  "export_job_id": "21d5c208-9817-4dfd-bdc2-b74ec3832488",
+  "export_job_id": "9bdc8f50-0535-493c-97d3-009a2bfa6c38",
   "id_short": 452219,
-  "published_at": "2026-04-22T07:31:22Z",
+  "published_at": "2026-04-29T07:39:26Z",
   "repo_name": "all-restaurants-in-ocala-metro-florida-us-sample-452219",
   "sample_asset_name": "beamstation_452219_restaurants-us-ocalafl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/452219/beamstation_452219_restaurants-us-ocalafl_SAMPLE_DIST.csv",
-  "sample_records": 19,
-  "sample_sha256": "412ad65cd2376db5361889dbd855fbcdcd0bdcb79e7f1964cb5d19e352a7f766",
-  "sample_size_bytes": 87052,
-  "total_records": 192
+  "sample_records": 24,
+  "sample_sha256": "851107493ab6b12d063d7c3474dbc29373c05b52228e18ada35f0b1707a92f3d",
+  "sample_size_bytes": 91301,
+  "total_records": 249
 }
